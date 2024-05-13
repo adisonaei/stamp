@@ -37,6 +37,7 @@ function App2(){
       fontFamily : 'Calibri',
       fontSize: 30
     }
+    //use draggable = true for suppirt mouse drag
 
     var [shapes,setShapes]  = useState([block,textShape]);
 
