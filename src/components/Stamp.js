@@ -29,7 +29,7 @@ const  Stamp = forwardRef( (props, ref) =>{
        
         return shape
     }
-
+   
     var drawRect = (shapeData,index)=>{
         let myprops = {...shapeData} ;
         if(myprops.forceCenter){

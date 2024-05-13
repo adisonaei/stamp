@@ -1,4 +1,4 @@
-import { forwardRef, useRef } from "react";
+import { useRef } from "react";
 import Stamp from "./components/Stamp";
 function App() {
 
